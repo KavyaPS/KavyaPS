@@ -5,7 +5,7 @@ Aspiring Software Engineer, a Final-year Computer Science & Engineering student 
 
 ### Skills & Interests:
 
-- **Programming Languages**          : C, C++, Java, HTML, CSS, JavaScript(basic knowledge)
+- **Programming Languages**          : C, Java, HTML, CSS, JavaScript(basic knowledge)
 - **Databases**                      : Postgresql
 - **Data Structures & Algorithms**   : Structuring Information for efficiency
 - **Developer Tools**                : Github, Google Colab, VS Code
