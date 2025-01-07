@@ -19,7 +19,7 @@ insightful dashboard with Python-based visualizations.[Project Link](https://git
 
 - **SMART DOOR LOCK WITH BLUETOOTH - Built Using Embedded And IOT.**: Developed a Bluetooth-enabled smart door lock system using Arduino, demonstrating expertise in embedded systems
 and IoT integration.Coded Arduino functionality using Arduino IDE to handle the locking mechanism.Enabled lock
-and unlock operations via mobile devices using Bluetooth connectivity.[Project Link](https://github.com/grishma-gedela/Tech-News.git)
+and unlock operations via mobile devices using Bluetooth connectivity.[Project Link]()
  
 
 
