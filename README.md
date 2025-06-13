@@ -1,7 +1,7 @@
 # Hi , I'm Kavya PS
 
-## About Me
-Aspiring Software Developer, a recent graduate completed Bachelor of Engineering in Computer Science at Panimalar Institute Of Technology with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+## About Me 
+A recent graduate completed Bachelor of Engineering in Computer Science at Panimalar Institute Of Technology with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ### Skills & Interests:
 
